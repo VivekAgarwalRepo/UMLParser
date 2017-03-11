@@ -1,4 +1,4 @@
 interface E{
-    void getAttributes();
+    int getAttributes();
     void setAttributes();
 }

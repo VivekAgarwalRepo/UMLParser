@@ -1,4 +1,4 @@
 interface D{
-    private void getMembers();
+    private int getMembers();
     private void setMembers();
 }

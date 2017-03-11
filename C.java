@@ -5,3 +5,7 @@ class C{
         b=0;
     }
 }
+
+class CChild extends C{
+    
+}

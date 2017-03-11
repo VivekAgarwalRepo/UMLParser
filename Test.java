@@ -1,4 +1,4 @@
-class A{
+class Test{
     int a,b;
 
     public void getVariables();

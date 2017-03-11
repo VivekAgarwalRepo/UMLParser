@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="147ceb33-ce1d-4f6f-9654-0579d19788e8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/E.java" afterPath="$PROJECT_DIR$/E.java" />
     </list>
     <ignored path="UMLParser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="D.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -43,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="E.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/E.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -70,6 +71,7 @@
         <option value="$PROJECT_DIR$/C.java" />
         <option value="$PROJECT_DIR$/Test.java" />
         <option value="$PROJECT_DIR$/D.java" />
+        <option value="$PROJECT_DIR$/E.java" />
       </list>
     </option>
   </component>
@@ -641,7 +643,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489199967644</updated>
       <workItem from="1489199970228" duration="1262000" />
-      <workItem from="1489253173962" duration="134000" />
+      <workItem from="1489253173962" duration="191000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Class">
       <created>1489200189280</created>
@@ -699,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489253303068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test Interface added">
+      <created>1489253408382</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1489253408382</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1396000" />
+    <option name="totallyTimeSpent" value="1453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -754,7 +763,8 @@
     <MESSAGE value="New Class for Testing" />
     <MESSAGE value="Modifications for Test case 1" />
     <MESSAGE value="Test Class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Class added" />
+    <MESSAGE value="Test Interface added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Interface added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -791,18 +801,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>

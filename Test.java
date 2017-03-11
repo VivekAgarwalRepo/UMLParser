@@ -9,10 +9,9 @@ class Test{
 }
 
 class B extends A{
-    int x,y;
+    int x;
     B(){
         x=0;
-        y=0;
     }
     public void getSum();
     public void display();

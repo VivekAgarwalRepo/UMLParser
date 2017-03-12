@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="147ceb33-ce1d-4f6f-9654-0579d19788e8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C.java" afterPath="$PROJECT_DIR$/C.java" />
     </list>
     <ignored path="UMLParser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +75,8 @@
       <file leaf-file-name="C.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -671,7 +672,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489199967644</updated>
       <workItem from="1489199970228" duration="1262000" />
-      <workItem from="1489253173962" duration="912000" />
+      <workItem from="1489253173962" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Class">
       <created>1489200189280</created>
@@ -757,11 +758,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489253709409</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Inheritance tested">
+      <created>1489254206597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1489254206597</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2174000" />
+    <option name="totallyTimeSpent" value="3026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -815,7 +823,9 @@
     <MESSAGE value="Test Interface added" />
     <MESSAGE value="Child class extends multiple interfaces" />
     <MESSAGE value="Child class methods defined" />
-    <option name="LAST_COMMIT_MESSAGE" value="Child class methods defined" />
+    <MESSAGE value="Inheritance added" />
+    <MESSAGE value="Inheritance tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -886,8 +896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -7,5 +7,8 @@ class C{
 }
 
 class CChild extends C{
-    
+    int c,d;
+    CChild(){
+        
+    }
 }

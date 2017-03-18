@@ -1,7 +1,6 @@
 class Test{
     int a,b;
-
-    public void getVariables();
+    
     public void setVaraibles(int x,int y){
         this.a=x;
         this.b=y;

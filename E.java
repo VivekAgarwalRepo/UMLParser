@@ -3,6 +3,8 @@ interface E{
     void setAttributes();
 }
 
-class secondary{
+class Secondary{
+    int a,b;
+
     
 }

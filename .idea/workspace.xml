@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="147ceb33-ce1d-4f6f-9654-0579d19788e8" name="Default" comment="Extra Function Added">
+    <list default="true" id="147ceb33-ce1d-4f6f-9654-0579d19788e8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/E.java" afterPath="$PROJECT_DIR$/E.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.java" afterPath="$PROJECT_DIR$/Test.java" />
     </list>
     <ignored path="UMLParser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +47,13 @@
       <file leaf-file-name="E.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/E.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -679,7 +680,7 @@
       <workItem from="1489253173962" duration="3943000" />
       <workItem from="1489785660889" duration="594000" />
       <workItem from="1489860462097" duration="1807000" />
-      <workItem from="1490655566695" duration="948000" />
+      <workItem from="1490655566695" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Class">
       <created>1489200189280</created>
@@ -828,11 +829,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490663636557</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Multiplication support added">
+      <created>1490663746935</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1490663746935</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8554000" />
+    <option name="totallyTimeSpent" value="8606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
@@ -897,7 +905,8 @@
     <MESSAGE value="Test class dependancy improved" />
     <MESSAGE value="Interface implemented in E" />
     <MESSAGE value="Extra Function Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extra Function Added" />
+    <MESSAGE value="Multiplication support added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiplication support added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -927,6 +936,8 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -973,6 +984,8 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1019,6 +1032,8 @@
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1094,11 +1109,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -20,4 +20,8 @@ class Secondary implements D{
     int multiplication(){
         return a*b;
     }
+
+    int division(){
+        return a/b;
+    }
 }

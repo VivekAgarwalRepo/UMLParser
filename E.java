@@ -10,11 +10,14 @@ class Secondary implements D{
 
     }
     int getMember(){
-        
+
     }
     Secondary(){
         a=0;
         b=0;
     }
 
+    int multiplication(){
+        return a*b;
+    }
 }

@@ -1,6 +1,5 @@
 class Test{
     int a,b;
-
     public void setVaraibles(int x,int y){
         this.a=x;
         this.b=y;

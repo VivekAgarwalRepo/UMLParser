@@ -18,4 +18,8 @@ class Child implements D,E{
         a=1;
         b=1;
     }
+
+    private int addition(){
+        return a+b;
+    }
 }

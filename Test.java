@@ -4,6 +4,10 @@ class Test{
         this.a=x;
         this.b=y;
     }
+
+    public void getA(){
+        return a;
+    }
 }
 
 class B extends Test{

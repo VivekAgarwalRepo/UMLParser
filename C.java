@@ -5,10 +5,3 @@ class C{
         b=0;
     }
 }
-
-class CChild extends C{
-    int c,d;
-    CChild(){
-
-    }
-}

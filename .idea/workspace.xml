@@ -65,8 +65,8 @@
       <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="34">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -694,7 +694,7 @@
       <workItem from="1490655566695" duration="1046000" />
       <workItem from="1490757612320" duration="52000" />
       <workItem from="1490985446042" duration="440000" />
-      <workItem from="1491516331835" duration="150000" />
+      <workItem from="1491516331835" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Class">
       <created>1489200189280</created>
@@ -906,11 +906,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491516420212</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="extends class and implements interface">
+      <created>1491516509443</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1491516509443</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9294000" />
+    <option name="totallyTimeSpent" value="9356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -955,7 +962,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New Class for Testing" />
     <MESSAGE value="Modifications for Test case 1" />
     <MESSAGE value="Test Class added" />
     <MESSAGE value="Test Interface added" />
@@ -980,7 +986,8 @@
     <MESSAGE value="Setter replaced with constructor" />
     <MESSAGE value="Inheritance discarded and testing" />
     <MESSAGE value="sample test class reintroduced" />
-    <option name="LAST_COMMIT_MESSAGE" value="sample test class reintroduced" />
+    <MESSAGE value="extends class and implements interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="extends class and implements interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1346,8 +1353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>

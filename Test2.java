@@ -15,5 +15,5 @@ class B extends Test2,implements E{
 }
 
 class bbase extends B{
-    
+
 }

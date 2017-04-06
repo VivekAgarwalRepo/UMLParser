@@ -8,10 +8,10 @@ class Test{
     public void getA(){
         return a;
     }
-
     public void getB(){
         return b;
     }
+
 }
 
 class B extends Test{
@@ -19,6 +19,6 @@ class B extends Test{
     B(){
         x=0;
     }
-    public void getSum();
-    public void display();
+    public void getSum(){}
+    public void display(){}
 }

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="147ceb33-ce1d-4f6f-9654-0579d19788e8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/D.java" afterPath="$PROJECT_DIR$/D.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test2.java" afterPath="$PROJECT_DIR$/Test2.java" />
     </list>
     <ignored path="UMLParser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="D.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -52,8 +52,8 @@
       <file leaf-file-name="E.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/E.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="25" />
               <folding>
                 <element signature="e#289#290#0" expanded="true" />
                 <element signature="e#315#316#0" expanded="true" />
@@ -62,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -106,11 +106,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/E.java" />
-        <option value="$PROJECT_DIR$/Test2.java" />
         <option value="$PROJECT_DIR$/Child.java" />
         <option value="$PROJECT_DIR$/Test.java" />
         <option value="$PROJECT_DIR$/C.java" />
         <option value="$PROJECT_DIR$/D.java" />
+        <option value="$PROJECT_DIR$/Test2.java" />
       </list>
     </option>
   </component>
@@ -694,7 +694,7 @@
       <workItem from="1490655566695" duration="1046000" />
       <workItem from="1490757612320" duration="52000" />
       <workItem from="1490985446042" duration="440000" />
-      <workItem from="1491516331835" duration="44000" />
+      <workItem from="1491516331835" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Class">
       <created>1489200189280</created>
@@ -899,11 +899,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490985797728</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="sample test class reintroduced">
+      <created>1491516420212</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1491516420212</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9188000" />
+    <option name="totallyTimeSpent" value="9294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -948,7 +955,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Case Deployed" />
     <MESSAGE value="New Class for Testing" />
     <MESSAGE value="Modifications for Test case 1" />
     <MESSAGE value="Test Class added" />
@@ -973,7 +979,8 @@
     <MESSAGE value="Getter set for second variable" />
     <MESSAGE value="Setter replaced with constructor" />
     <MESSAGE value="Inheritance discarded and testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance discarded and testing" />
+    <MESSAGE value="sample test class reintroduced" />
+    <option name="LAST_COMMIT_MESSAGE" value="sample test class reintroduced" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1318,18 +1325,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test2.java">
+    <entry file="file://$PROJECT_DIR$/D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/E.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="25" />
           <folding>
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#315#316#0" expanded="true" />
@@ -1337,10 +1344,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D.java">
+    <entry file="file://$PROJECT_DIR$/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>

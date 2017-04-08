@@ -1,5 +1,5 @@
 class Test{
-    int a,b;
+    private int a,b;
     Test(int x,int y){
         this.a=x;
         this.b=y;

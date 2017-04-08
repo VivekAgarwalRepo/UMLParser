@@ -17,11 +17,11 @@ class Secondary implements D{
         b=0;
     }
 
-    int multiplication(){
+    private int multiplication(){
         return a*b;
     }
 
-    int division(){
+    private int division(){
         return a/b;
     }
 }

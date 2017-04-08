@@ -6,10 +6,10 @@ interface E{
 class Secondary implements D{
     int a,b;
 
-    void setMember(){
+    public void setMember(){
 
     }
-    int getMember(){
+    public int getMember(){
 
     }
     Secondary(){

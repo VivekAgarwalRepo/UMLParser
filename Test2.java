@@ -12,6 +12,7 @@ class B extends Test2,implements E{
 
     int getAttributes(){}
     void setAttributes(){}
+    public void display(){}
 }
 
 class bbase extends B{

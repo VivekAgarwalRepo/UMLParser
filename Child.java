@@ -4,6 +4,7 @@ class Child implements D,E{
         a=0;
         b=0;
     }
+    public void display(){}
     private int getMembers(){
         return a+b;
     }

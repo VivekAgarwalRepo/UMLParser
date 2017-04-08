@@ -1,6 +1,7 @@
 interface E{
     int getAttributes();
     void setAttributes();
+    public void display();
 }
 
 class Secondary implements D{

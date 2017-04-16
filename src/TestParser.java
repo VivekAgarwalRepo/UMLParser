@@ -15,5 +15,5 @@ public class TestParser {
 }
 
 class testParser2 extends TestParser{
-    
+
 }

@@ -4,9 +4,18 @@ interface E{
     public void display();
 }
 
-class Secondary implements D{
+class Secondary implements D,E{
     int a,b;
+    int getAttributes(){
+    }
 
+    void setAttributes(){
+
+    }
+
+    public void display(){
+        
+    }
     public void setMember(){
 
     }

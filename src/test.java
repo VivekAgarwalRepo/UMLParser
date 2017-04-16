@@ -4,6 +4,6 @@ class Test{
         return a;
     }
     Test(int val){
-        a=val;
+        this.a=val;
     }
 }

@@ -10,6 +10,11 @@ class Secondary implements D{
     public void setMember(){
 
     }
+
+    public void addition(){
+        return a+b;
+    }
+
     public int getMember(){
 
     }

@@ -15,6 +15,10 @@ class Secondary implements D{
         return a+b;
     }
 
+    public void subtraction(){
+        return a-b;
+    }
+
     public int getMember(){
 
     }

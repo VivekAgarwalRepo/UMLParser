@@ -13,6 +13,3 @@ public class TestParser {
         System.out.println(cu.toString());
     }
 }
-
-class testParser2 extends TestParser{
-}

@@ -1,6 +1,9 @@
 import com.github.javaparser.*;
 
 public class TestParser {
+    TestParser(){
+        
+    }
 
     public static void main(String[] args) throws Exception {
         // creates an input stream for the file to be parsed

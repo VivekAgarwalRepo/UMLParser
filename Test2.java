@@ -1,7 +1,5 @@
 class Test2{
-    Test2(){
 
-    }
 }
 
 class B extends Test2,implements E{

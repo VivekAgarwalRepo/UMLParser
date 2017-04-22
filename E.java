@@ -14,7 +14,7 @@ class Secondary implements D,E{
     }
 
     public void display(){
-        
+
     }
     public void setMember(){
 
@@ -30,10 +30,6 @@ class Secondary implements D,E{
 
     public int getMember(){
 
-    }
-    Secondary(){
-        a=0;
-        b=0;
     }
 
     private int multiplication(){

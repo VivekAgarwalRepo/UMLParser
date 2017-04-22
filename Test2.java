@@ -12,7 +12,3 @@ class B extends Test2,implements E{
     void setAttributes(){}
     public void display(){}
 }
-
-class bbase extends B{
-
-}

@@ -6,6 +6,10 @@ interface E{
 
 class Secondary implements D,E{
     int a,b;
+    Secondary(){
+        a=0;
+        b=0;
+    }
     int getAttributes(){
     }
 
